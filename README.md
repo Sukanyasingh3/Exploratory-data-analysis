@@ -11,6 +11,11 @@ This repository contains exploratory data analysis (EDA),where I explore and ana
 - File: `Global Terrorism Dataset.md`
 - Description: This document provides detailed information about the Global Terrorism dataset used in the corresponding EDA notebook.
 
+
+![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/1100e1f3-ca52-4693-b4d3-e368484752ce)
+![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/ad388c4c-0ce6-4a59-8576-0994b3cddb74)
+![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/6f78b92b-c787-426f-ad79-053b2913a1c0)
+
 ## 2. Students Data EDA
 
 - File: `Students_Data_EDA.ipynb`
