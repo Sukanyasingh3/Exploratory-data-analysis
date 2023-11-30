@@ -26,6 +26,10 @@ This repository contains exploratory data analysis (EDA),where I explore and ana
 - File: `student_extended_ml_dataset2.csv`
 - Description: This dataset is an extension of the student data exploration, providing additional features for potential machine learning applications. The file includes an updated dataset with new variables for further analysis and modeling.
 
+![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/9f547bf9-05ca-4697-8f2c-6fb345ef2663)
+![do![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/a8b35dbb-17f7-49cc-b0a5-ae3355389e79)
+wnload](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/4e91066e-361f-41f1-a039-a4d287e0ef28)
+
 ## 3. eCommerce Behavior Analysis
 
 - File: `eCommerce_behavior_EDA.ipynb`
