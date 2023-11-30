@@ -39,6 +39,9 @@ wnload](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462
 - File: `eCommerce Behavior Dataset.md`
 - Description: This document provides detailed information about the eCommerce Behavior dataset used in the corresponding EDA notebook. It includes data sources, features, and any additional context necessary for understanding the dataset.
 
+![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/31ca1b5a-bd88-4ef8-b459-c85d7906b8c1)
+![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/2ae541a5-d3bd-4af7-8ebb-ae5e4b91adfd)
+![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/fed2d828-66e6-4be2-9a20-46efe80553bd)
 
-Feel free to explore each project's respective notebook or document for a more in-depth understanding of the datasets and insights derived through exploratory data analysis.
+### Feel free to explore each project's respective notebook or document for a more in-depth understanding of the datasets and insights derived through exploratory data analysis.
 
