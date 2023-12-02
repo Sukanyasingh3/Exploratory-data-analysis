@@ -43,5 +43,21 @@ wnload](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462
 ![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/2ae541a5-d3bd-4af7-8ebb-ae5e4b91adfd)
 ![download](https://github.com/Sukanyasingh3/Exploratory-data-analysis/assets/113462236/fed2d828-66e6-4be2-9a20-46efe80553bd)
 
-### Feel free to explore each project's respective notebook or document for a more in-depth understanding of the datasets and insights derived through exploratory data analysis.
+## Usage
 
+To run the code and reproduce the results:
+
+Clone this repository:
+
+```bash
+git clone https://github.com/Sukanyasingh3/Exploratory-data-analysis.git
+cd Exploratory-data-analysis
+```
+## Contributing
+![cat](https://github.com/Sukanyasingh3/Regression-Stock_Prices/assets/113462236/1ea761ee-c0b2-4809-8049-d88982df32a9)
+Feel free to explore each project's respective notebook or document for a more in-depth understanding of the datasets and insights derived through exploratory data analysis.
+If you would like to contribute to the project, follow these steps:
+
+ - Fork the repository.
+ - Create a new branch for your feature or bug fix.
+ - Make your changes and submit a pull request.
