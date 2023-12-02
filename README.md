@@ -55,7 +55,9 @@ cd Exploratory-data-analysis
 ```
 ## Contributing
 ![cat](https://github.com/Sukanyasingh3/Regression-Stock_Prices/assets/113462236/1ea761ee-c0b2-4809-8049-d88982df32a9)
+
 Feel free to explore each project's respective notebook or document for a more in-depth understanding of the datasets and insights derived through exploratory data analysis.
+
 If you would like to contribute to the project, follow these steps:
 
  - Fork the repository.
