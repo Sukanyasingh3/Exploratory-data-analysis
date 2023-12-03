@@ -63,3 +63,5 @@ If you would like to contribute to the project, follow these steps:
  - Fork the repository.
  - Create a new branch for your feature or bug fix.
  - Make your changes and submit a pull request.
+
+   Happy coding!
