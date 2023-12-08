@@ -5,7 +5,7 @@ This repository contains exploratory data analysis (EDA),where I explore and ana
 ## 1. Global Terrorism EDA
 
 - File: `Global_Terrorism_EDA.ipynb`
-- Description: This notebook presents an exploratory analysis of global terrorism data. Using descriptive statistics and visualizations, the analysis aims to uncover patterns and trends in terrorist incidents worldwide.
+- Description: This notebook presents an exploratory analysis of global terrorism data. Using descriptive statistics and visualizations, the analysis aims to uncover patterns and trends in terrorist incidents worldwide
 
 ### Dataset:
 - File: `Global Terrorism Dataset.md`
